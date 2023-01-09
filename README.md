@@ -32,6 +32,6 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 
 
 #### Getting Started
-* Clone the repository. (for help see this tutorial).
-* Raw data is being kept [here]
+* Clone the repository. 
+
 
