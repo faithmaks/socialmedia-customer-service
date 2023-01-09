@@ -11,7 +11,8 @@ Antony Brian, Arnold Kalage, Betty Bett, Faith Makokha, Julia Karanja
 * Data Understanding
 * Data Preparation
 * Modeling
-* Evaluation
+* Conclusion
+* Recommendation
 
 ## Business Understanding.
 
