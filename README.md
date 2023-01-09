@@ -7,11 +7,11 @@
 Antony Brian, Arnold Kalage, Betty Bett, Faith Makokha, Julia Karanja
 
 #### Table of Contents
-- Business Understanding 
-- Data Understanding
-- Data Preparation
-- Modeling
-- Evaluation
+* Business Understanding 
+* Data Understanding
+* Data Preparation
+* Modeling
+* Evaluation
 
 ## Business Understanding.
 
@@ -19,7 +19,9 @@ Antony Brian, Arnold Kalage, Betty Bett, Faith Makokha, Julia Karanja
 -The advancement of technology has enhanced communication abilities with the use of social media in business and other sectors. Better communication increased the ability of most companies to get in touch with their consumers through an easier and faster medium.  Client care is, therefore, at the core of all successful businesses because developing customer interactions is one of the keys to increasing customer loyalty.  Most companies receive customer service complaints and requests via Twitter, especially Kenya Power and Safaricom, where the requests can be instantaneous and frequent. Some of these complaints require classification to be forwarded to the right customer service department or a person who specializes or deals with the problem directly.
 
 
--Safaricom PLC is a leading telecommunications company in Kenya, serving millions of customers across the country. Founded in 1997, the company has become a household name in Kenya, providing various services, including mobile voice and data services, financial services, and enterprise solutions.The company operates a network of over 18,000 mobile towers across Kenya, providing coverage to over 99% of the country’s population. Safaricom offers a range of mobile plans to suit different needs and budgets, including prepaid and postpaid options.From the products and services Safaricom offers, the company has a large user base, creating the challenge of managing all its consumers. Due to the large customer base, some consumers might feel unsatisfied with the customer service offered by Safaricom, especially on social media. The Safaricom_care Twitter handle depicts the number of people complaining about different services at a given time. Handling these complaints can be challenging, especially since numerous people can tweet about different services at a given time. Customer care remains one of the most important elements of a successful business since it maintains the relationship between the company and its consumers.
+-Safaricom PLC is a leading telecommunications company in Kenya, serving millions of customers across the country. Founded in 1997, the company has become a household name in Kenya, providing various services, including mobile voice and data services, financial services, and enterprise solutions.The company operates a network of over 18,000 mobile towers across Kenya, providing coverage to over 99% of the country’s population. Safaricom offers a range of mobile plans to suit different needs and budgets, including prepaid and postpaid options.From the products and services Safaricom offers, the company has a large user base, creating the challenge of managing all its consumers. Due to the large customer base, some consumers might feel unsatisfied with the customer service offered by Safaricom, especially on social media. The Safaricom_care Twitter handle depicts the number of people complaining about different services at a given time. 
+
+-Handling these complaints can be challenging, especially since numerous people can tweet about different services at a given time. Customer care remains one of the most important elements of a successful business since it maintains the relationship between the company and its consumers.
 
 #### Business Problem.
 In recent years, several companies have migrated to using social media for customer service and customer support, with companies having specific accounts dedicated to customer care queries. This has led to the problem of classifying said complaints or services according to the department that needs to work on them and generate tickets for the services. Numerous customers can tweet about different services simultaneously, making it easy for the company’s staff to miss such complaints. This might be unsatisfactory to the affected consumers, leading to the loss of business. This data comes at a high frequency, so a machine learning model is the easiest way to handle such data and accelerate response rates. This model will classify all tweets directed to the company’s customer care handle and classify and direct them to the relevant departments. This will help manage the traffic of complaints made to the customer care handle and increase the speed of responses to the consumers since each department will be responsible for the complaints of their products and services.
@@ -31,31 +33,31 @@ The data used in this project is from the Safaricom_Care twitter handle. The dat
 #### Data description.
 The dataset contains 1,000,000 rows and 5 columns.
 The description of the columns are as follows:
-Datetime - This refers to the date of the tweet
-Tweet Id - This refers to the unique id of the tweet
-Text - This refers to the actual text in the tweet
-Username - This refers to the name of the user who commented
-Like Count -This refers to the number of likes a tweet receives
+* Datetime - This refers to the date of the tweet
+* Tweet Id - This refers to the unique id of the tweet
+* Text - This refers to the actual text in the tweet
+* Username - This refers to the name of the user who commented
+* Like Count -This refers to the number of likes a tweet receives
 
 ## Data Preparation.
 
 We performed the following tasks:
 Data Cleaning, which included:
-Removing Tweets by Safaricom in order to have tweets from their customers only
-Converting all the tweets to lowercase, removing: links, usernames, hashtags, punctuations, emojis, stopwords, and numbers, to eliminate the noise in our data.
-Creating labels for our data by placing common words in categories.
+* Removing Tweets by Safaricom in order to have tweets from their customers only
+* Converting all the tweets to lowercase, removing: links, usernames, hashtags, punctuations, emojis, stopwords, and numbers, to eliminate the noise in our data.
+* Creating labels for our data by placing common words in categories.
 
 
 
 ## Modeling.
 This is an NLP project that aims to build a model that accurately classifies text into one of the several categories. We will compare several different models to find the one that performs the best in our dataset. These models include:
-KNN
-Decision Trees
-Random Forest
-SVM
-Decision Trees with Grid Search CV
-Neural Networks
-XG Boost
+* KNN
+* Decision Trees
+* Random Forest
+* SVM
+* Decision Trees with Grid Search CV
+* Neural Networks
+* XG Boost
 
 
 ## Conclusion.
