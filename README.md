@@ -32,11 +32,11 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 
 
 #### Getting Started
-* Clone the repository. [link]{https://help.github.com/articles/cloning-a-repository/}
-
+* Clone the repository.
+* 
 
 #### Featured Deliverables
-Twitter Classification Write-Up
+https://docs.google.com/document/d/1-CfQJXN-COOnDoWfV_2CCub2l3fN3bMVLpdu94dKoaA/edit
 
 #### Contributing members
 * Team Lead - Antony Brian
