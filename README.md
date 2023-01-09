@@ -35,3 +35,17 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 * Clone the repository. 
 
 
+#### Featured Deliverables
+Twitter Classification Write-Up
+
+#### Contributing members
+* Team Lead - Antony Brian
+* Arnold Kalage
+* Betty Bett
+* Faith Makokha
+* Julia Karanja
+
+
+#### Contacts
+Feel free to contact the team lead with any questions or if you are interested in contributing.
+
