@@ -32,7 +32,7 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 
 
 #### Getting Started
-* Clone the repository. (for help see this tutorial)[42NPeS5Q4XJSBKB9WVXmoZUS39DmsBoQRS77rB6mpjYf4AYw4eKcZg4WeK2hgeUyGrPxtWF8mkfxUiEiKTi3i8pUPwz9muX]
+* Clone the repository. [for help see this tutorial][https://help.github.com/articles/cloning-a-repository/]
 
 
 #### Featured Deliverables
