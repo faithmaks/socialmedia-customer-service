@@ -43,7 +43,7 @@ https://docs.google.com/document/d/1-CfQJXN-COOnDoWfV_2CCub2l3fN3bMVLpdu94dKoaA/
 * Arnold Kalage
 * Betty Bett
 * Faith Makokha
-* Julia Karanja
+* [Julia Karanja](https://github.com/juliakaranja)
 
 
 #### Contacts
