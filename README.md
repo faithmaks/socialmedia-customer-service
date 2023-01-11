@@ -33,7 +33,8 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 
 #### Getting Started
 * Clone the repository.
-* 
+* Raw data is being kept [here]
+* The libraries that we used are [here](https://colab.research.google.com/drive/15w5gF0mj9_fd-0UHIh5YiUqTpMWRncLQ?authuser=1#scrollTo=SVnagD_iNWQW)
 
 #### Featured Deliverables
 [Write-Up](https://docs.google.com/document/d/1-CfQJXN-COOnDoWfV_2CCub2l3fN3bMVLpdu94dKoaA/edit)
