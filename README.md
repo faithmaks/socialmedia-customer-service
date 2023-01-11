@@ -36,16 +36,16 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 * 
 
 #### Featured Deliverables
-https://docs.google.com/document/d/1-CfQJXN-COOnDoWfV_2CCub2l3fN3bMVLpdu94dKoaA/edit
+[Write-Up](https://docs.google.com/document/d/1-CfQJXN-COOnDoWfV_2CCub2l3fN3bMVLpdu94dKoaA/edit)
 
 #### Contributing members
-* Team Lead - Antony Brian
-* Arnold Kalage
-* Betty Bett
-* Faith Makokha
+* Team Lead - [Antony Brian](https://github.com/beast001/)
+* [Arnold Kalage](https://github.com/Arnoldchovu)
+* [Betty Bett](https://github.com/BettyBett)
+* [Faith Makokha](https://github.com/faithmaks)
 * [Julia Karanja](https://github.com/juliakaranja)
 
 
 #### Contacts
-Feel free to contact the team lead with any questions or if you are interested in contributing.
+Feel free to contact the team lead [Antony Brian](https://github.com/beast001/) with any questions or if you are interested in contributing.
 
