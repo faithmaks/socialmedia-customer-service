@@ -33,7 +33,7 @@ The purpose of this project is to classify the complaints from Safaricom_Care tw
 
 #### Getting Started
 * Clone the repository.(for help see this [tutorial](42NPeS5Q4XJSBKB9WVXmoZUS39DmsBoQRS77rB6mpjYf4AYw4eKcZg4WeK2hgeUyGrPxtWF8mkfxUiEiKTi3i8pUPwz9muX)) 
-* Raw data is being kept [here]
+* Raw data is being kept [here](https://github.com/faithmaks/socialmedia-customer-service/blob/main/.gitignore)
 * The libraries that we used are [here](https://colab.research.google.com/drive/15w5gF0mj9_fd-0UHIh5YiUqTpMWRncLQ?authuser=1#scrollTo=SVnagD_iNWQW)
 
 #### Featured Deliverables
